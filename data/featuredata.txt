@@ -1,0 +1,228 @@
+id	question	level	objective
+F1	Animals you saw last year	moose	
+F2	Animals you saw last year	deer	
+F3	Animals you saw last year	roe deer	
+F4	Animals you saw last year	wild boar	
+F5	Animals you saw last year	beaver	
+F6	Animals you saw last year	otter	
+F7	Animals you saw last year	hedgehog	
+F8	Animals you saw last year	bat	
+F9	Animals you saw last year	red fox	
+F10	Animals you saw last year	marten	
+F11	Animals you saw last year	ermine	
+F12	Animals you saw last year	squirrel	
+F13	Animals you saw last year	badger	
+F14	Animals you saw last year	racoon dog	
+F15	Animals you saw last year	racoon	
+F16	Animals you saw last year	hare	
+F17	Animals you saw last year	swan	
+F18	Animals you saw last year	duck	
+F19	Animals you saw last year	kestrel 	
+F20	Animals you saw last year	buzzard	
+F21	Animals you saw last year	Others	
+F22	Animals you saw last year	Name	
+F23	The 3 most important species see at 100m distance	Speci 1	Obj1
+F24	The 3 most important species see at 100m distance	Park (name)	
+F25	The 3 most important species see at 100m distance	Near home (place)	
+F26	The 3 most important species see at 100m distance	Walking (place)	
+F27	The 3 most important species see at 100m distance	On road (place)	
+F28	The 3 most important species see at 100m distance	Building	
+F29	The 3 most important species see at 100m distance	Transport stop	
+F30	The 3 most important species see at 100m distance	river/reservior	
+F31	The 3 most important species see at 100m distance	Other	
+F32	The 3 most important species see at 100m distance	Speci 2	Obj1
+F33	The 3 most important species see at 100m distance	Park (name)	
+F34	The 3 most important species see at 100m distance	Near home (place)	
+F35	The 3 most important species see at 100m distance	Walking (place)	
+F36	The 3 most important species see at 100m distance	On road (place)	
+F37	The 3 most important species see at 100m distance	Building	
+F38	The 3 most important species see at 100m distance	Transport stop	
+F39	The 3 most important species see at 100m distance	river/reservior	
+F40	The 3 most important species see at 100m distance	Other	
+F41	The 3 most important species see at 100m distance	Speci 3	Obj1
+F42	The 3 most important species see at 100m distance	Park (name)	
+F43	The 3 most important species see at 100m distance	Near home (place)	
+F44	The 3 most important species see at 100m distance	Walking (place)	
+F45	The 3 most important species see at 100m distance	On road (place)	
+F46	The 3 most important species see at 100m distance	Building	
+F47	The 3 most important species see at 100m distance	Transport stop	
+F48	The 3 most important species see at 100m distance	river/reservior	
+F49	The 3 most important species see at 100m distance	Other	
+F50	Behaviour of the animal Sp 1	no fear	Obj1
+F51	Behaviour of the animal Sp 1	aggressive 	Obj1
+F52	Behaviour of the animal Sp 1	friendly	Obj1
+F53	Behaviour of the animal Sp 1	asked for food	Obj1
+F54	Behaviour of the animal Sp 1	ran away	Obj1
+F55	Behaviour of the animal Sp 1	sick/injured	Obj1
+F56	Behaviour of the animal Sp 1	dead	Obj1
+F57	Behaviour of the animal Sp 1	other	Obj1
+F58	Behaviour of the animal Sp 1	comments	Obj1
+F59	Behaviour of the animal Sp 2	no fear	Obj1
+F60	Behaviour of the animal Sp 2	aggressive 	Obj1
+F61	Behaviour of the animal Sp 2	friendly	Obj1
+F62	Behaviour of the animal Sp 2	asked for food	Obj1
+F63	Behaviour of the animal Sp 2	ran away	Obj1
+F64	Behaviour of the animal Sp 2	sick/injured	Obj1
+F65	Behaviour of the animal Sp 2	dead	Obj1
+F66	Behaviour of the animal Sp 2	other	Obj1
+F67	Behaviour of the animal Sp 2	comment	Obj1
+F68	Behaviour of the animal Sp 3	no fear	Obj1
+F69	Behaviour of the animal Sp 3	aggressive 	Obj1
+F70	Behaviour of the animal Sp 3	friendly	Obj1
+F71	Behaviour of the animal Sp 3	asked for food	Obj1
+F72	Behaviour of the animal Sp 3	ran away	Obj1
+F73	Behaviour of the animal Sp 3	sick/injured	Obj1
+F74	Behaviour of the animal Sp 3	dead	Obj1
+F75	Behaviour of the animal Sp 3	other	Obj1
+F76	Behaviour of the animal Sp 3	comment	Obj1
+F77	Season of wildlife observation (Spring) Sp 1	everyday	
+F78	Season of wildlife observation (Spring) Sp 1	weekly	
+F79	Season of wildlife observation (Spring) Sp 1	month 	
+F80	Season of wildlife observation (Spring) Sp 1	season	
+F81	Season of wildlife observation (Summer)  Sp 1	everyday	
+F82	Season of wildlife observation (Summer)  Sp 1	weeekly 	
+F83	Season of wildlife observation (Summer)  Sp 1	month 	
+F84	Season of wildlife observation (Summer)  Sp 1	season	
+F85	Season of wildlife observation (Atumn)  Sp 1	everyday	
+F86	Season of wildlife observation (Atumn)  Sp 1	weeekly	
+F87	Season of wildlife observation (Atumn)  Sp 1	month 	
+F88	Season of wildlife observation (Atumn)  Sp 1	season	
+F89	Season of wildlife observation (Winter)  Sp 1	everyday	
+F90	Season of wildlife observation (Winter)  Sp 1	weeekly	
+F91	Season of wildlife observation (Winter)  Sp 1	month	
+F92	Season of wildlife observation (Winter)  Sp 1	season	
+F93	Season of wildlife observation (Spring)  Sp 2	everyday	
+F94	Season of wildlife observation (Spring)  Sp 2	weekly	
+F95	Season of wildlife observation (Spring)  Sp 2	month 	
+F96	Season of wildlife observation (Spring)  Sp 2	season	
+F97	Season of wildlife observation (Summer) Sp 2	everyday	
+F98	Season of wildlife observation (Summer) Sp 2	weekly	
+F99	Season of wildlife observation (Summer) Sp 2	month 	
+F100	Season of wildlife observation (Summer) Sp 2	season	
+F101	Season of wildlife observation (Autumn) Sp 2	everyday	
+F102	Season of wildlife observation (Autumn) Sp 2	weekly	
+F103	Season of wildlife observation (Autumn) Sp 2	month 	
+F104	Season of wildlife observation (Autumn) Sp 2	season	
+F105	Season of wildlife observation (Winter) Sp 2	everyday	
+F106	Season of wildlife observation (Winter) Sp 2	weekly	
+F107	Season of wildlife observation (Winter) Sp 2	month 	
+F108	Season of wildlife observation (Winter) Sp 2	season	
+F109	Season of wildlife observation (Spring)  Sp 3	everyday	
+F110	Season of wildlife observation (Spring)  Sp 3	weekly	
+F111	Season of wildlife observation (Spring)  Sp 3	month 	
+F112	Season of wildlife observation (Spring)  Sp 3	season	
+F113	Season of wildlife observation (Summer) Sp 3	everyday	
+F114	Season of wildlife observation (Summer) Sp 3	weekly	
+F115	Season of wildlife observation (Summer) Sp 3	month 	
+F116	Season of wildlife observation (Summer) Sp 3	season	
+F117	Season of wildlife observation (Autumn) Sp 3	everyday	
+F118	Season of wildlife observation (Autumn) Sp 3	weekly	
+F119	Season of wildlife observation (Autumn) Sp 3	month 	
+F120	Season of wildlife observation (Autumn) Sp 3	season	
+F121	Season of wildlife observation (Winter) Sp 3	everyday	
+F122	Season of wildlife observation (Winter) Sp 3	weekly	
+F123	Season of wildlife observation (Winter) Sp 3	month 	
+F124	Season of wildlife observation (Winter) Sp 3	season	
+F125	Do you have problems with presence of wildlife	Yes	
+F126	Do you have problems with presence of wildlife	No	
+F127	Describe your problem Sp1	Speci 1	
+F128	Describe your problem Sp1	agrression/attack	
+F129	Describe your problem Sp1	disease	
+F130	Describe your problem Sp1	noise	
+F131	Describe your problem Sp1	road collission	
+F132	Describe your problem Sp1	anxiety	
+F133	Describe your problem Sp1	intrusion	
+F134	Describe your problem Sp1	destruction (building)	
+F135	Describe your problem Sp1	destruction (non-building)	
+F136	Describe your problem Sp1	destruction (car)	
+F137	Describe your problem Sp1	destruction (crops/animal)	
+F138	Describe your problem Sp1	killing domestic animals	
+F139	Describe your problem Sp1	eating from pet	
+F140	Describe your problem Sp1	other	
+F141	Describe your problem Sp2	Speci 2	
+F142	Describe your problem	agrression/attack	
+F143	Describe your problem	disease	
+F144	Describe your problem	noise	
+F145	Describe your problem	road collission	
+F146	Describe your problem	anxiety	
+F147	Describe your problem	intrusion	
+F148	Describe your problem	destruction (building)	
+F149	Describe your problem	destruction (non-building)	
+F150	Describe your problem	destruction (car)	
+F151	Describe your problem	destruction (crops/animal)	
+F152	Describe your problem	killing domestic animals	
+F153	Describe your problem	eating from pet	
+F154	Describe your problem	other	
+F155	Describe your problem Sp3	Speci 3	
+F156	Describe your problem Sp3	agrression/attack	
+F157	Describe your problem Sp3	disease	
+F158	Describe your problem Sp3	noise	
+F159	Describe your problem Sp3	road collission	
+F160	Describe your problem Sp3	anxiety	
+F161	Describe your problem Sp3	intrusion	
+F162	Describe your problem Sp3	destruction (building)	
+F163	Describe your problem Sp3	destruction (non-building)	
+F164	Describe your problem Sp3	destruction (car)	
+F165	Describe your problem Sp3	destruction (crops/animal)	
+F166	Describe your problem Sp3	killing domestic animals	
+F167	Describe your problem Sp3	eating from pet	
+F168	Describe your problem Sp3	other	
+F169	What do you think about the presence of wildlife?	Very negative	
+F170	What do you think about the presence of wildlife?	negative	
+F171	What do you think about the presence of wildlife?	neutral	
+F172	What do you think about the presence of wildlife?	positive	
+F173	What do you think about the presence of wildlife?	very positive	
+F174	What do you think about the presence of wildlife?	Reason	
+F175	Opinion	Definititely not (-2)	
+F176	Opinion	Proabably not (-1)	
+F177	Opinion	I have no opinion (0)	
+F178	Opinion	Probably yes (1)	
+F179	Opinion	Definitely yes (2)	
+F180	Reasons for your opinion	source of danger to people	
+F181	Reasons for your opinion	should be killed by shooting	
+F182	Reasons for your opinion	should be killed pharmacologically	
+F183	Reasons for your opinion	should be resettled to their natural environment outside the city	reverse
+F184	Reasons for your opinion	make me feel connected with nature 	reverse
+F185	Reasons for your opinion	appear as a result of shrinking their natural habitats	reverse
+F186	Reasons for your opinion	they can live in Krakow without colliding with people's interests	reverse
+F187	What do you do with a wounded/sick animal?	should take home to help	
+F188	What do you do with a wounded/sick animal?	to leave because it poses a danger	reverse
+F189	What do you do with a wounded/sick animal?	is part of nature so they should be left alone	reverse
+F190	What do you do with a wounded/sick animal?	should be captured by the relevant services that will deal with it	reverse
+F191	What do you do with a wounded/sick animal?	others	
+F192	What should the appropriate services after capturing a sick / injured animal?	cured and released at the point of capture	
+F193	What should the appropriate services after capturing a sick / injured animal?	killed	reverse
+F194	What should the appropriate services after capturing a sick / injured animal?	resettled outside the city	
+F195	What should the appropriate services after capturing a sick / injured animal?	Sterelised	reverse
+F196	What should the appropriate services after capturing a sick / injured animal?	dewormed	
+F197	What should the appropriate services after capturing a sick / injured animal?	put into adoption	reverse
+F198	What should the appropriate services after capturing a sick / injured animal?	for scientific research	reverse
+F199	What should the appropriate services after capturing a sick / injured animal?	given to the mini ZOO	reverse
+F200	What should the appropriate services after capturing a sick / injured animal?	others	
+F201	Asked any institution for help?	Yes	
+F202	Asked any institution for help?	No	
+F203	Name of the institution	Name of the institution	
+F204	Did you receive help?	Yes	
+F205	Did you receive help?	Yes, but not enough	
+F206	Did you receive help?	No	
+F207	Do you think there is a special unit in Krakow that deals with solving problems arising from the presence of wild animals?	Yes	
+F208	Do you think there is a special unit in Krakow that deals with solving problems arising from the presence of wild animals?	No	
+F209	Do you think there is a special unit in Krakow that deals with solving problems arising from the presence of wild animals?	I dont know	
+F210	Have you tried to solve the problem on your own?	Yes	
+F211	Have you tried to solve the problem on your own?	No	
+F212	Have you tried to solve the problem on your own?	How?	
+F213	Do you have enough information on how to deal with a wild animal in the city?	Yes	
+F214	Do you have enough information on how to deal with a wild animal in the city?	No	
+F215	Do you have enough information on how to deal with a wild animal in the city?	I dont know	
+F216	Do you think there is a need for information campaigns ?	Yes	
+F217	Do you think there is a need for information campaigns ?	No	
+F218	Do you think there is a need for information campaigns ?	I dont know	
+F219	Where do you get information about wild animals?	television	
+F220	Where do you get information about wild animals?	internet	
+F221	Where do you get information about wild animals?	press	
+F222	Where do you get information about wild animals?	leaflet	
+F223	Where do you get information about wild animals?	scientific literature	
+F224	Where do you get information about wild animals?	friends	
+F225	Where do you get information about wild animals?	others	
+F226	Where do you get information about wild animals?	comments	
+F227	Overall Comments		

@@ -1,0 +1,44 @@
+sk_id	key	description
+SK1	Animal	bat
+SK2	Animal	beaver
+SK3	Animal	buzzard
+SK4	Animal	deer
+SK5	Animal	duck
+SK6	Animal	ermine
+SK7	Animal	hare
+SK8	Animal	hedgehog
+SK9	Animal	kestral
+SK10	Animal	marten
+SK11	Animal	otter
+SK12	Animal	owl
+SK13	Animal	pheasant
+SK14	Animal	rat
+SK15	Animal	red fox
+SK16	Animal	roe deer
+SK17	Animal	squirrel
+SK18	Animal	swan
+SK19	Animal	wild boar
+SK20	Behaviour	no fear
+SK21	Behaviour	aggressive 
+SK22	Behaviour	friendly
+SK23	Behaviour	asked for food
+SK24	Behaviour	ran away
+SK25	Behaviour	sick/injured
+SK26	Behaviour	dead
+SK27	Behaviour	other
+SK28	Seasons	Spring everyday
+SK29	Seasons	Spring weekly
+SK30	Seasons	Spring monthly
+SK31	Seasons	Spring seasonally
+SK32	Seasons	Summer everyday
+SK33	Seasons	Summer weekly 
+SK34	Seasons	Summer monthly
+SK35	Seasons	Summer seasonally
+SK36	Seasons	Autumn everyday
+SK37	Seasons	Autumn weekly
+SK38	Seasons	Autumn monthly
+SK39	Seasons	Autumn seasonally
+SK40	Seasons	Winter everyday
+SK41	Seasons	Winter weekly
+SK42	Seasons	Winter monthly
+SK43	Seasons	Winter seasonally

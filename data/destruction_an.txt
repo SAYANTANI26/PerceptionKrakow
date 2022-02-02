@@ -1,0 +1,16 @@
+Relationship	key	description
+R1	animals	stone marten
+R2	animals	red fox
+R3	animals	roe deer
+R4	animals	wild boar
+R5	problems	agrression/attack
+R6	problems	disease
+R7	problems	noise
+R8	problems	road collission
+R9	problems	anxiety
+R10	problems	intrusion
+R11	problems	destruction (building)
+R12	problems	destruction (car)
+R13	problems	destruction (crops/animal)
+R14	problems	killing domestic animals
+R15	problems	eating from pet

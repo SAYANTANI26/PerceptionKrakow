@@ -1,0 +1,89 @@
+ID	Animal	Behaviour
+T1	Wild boar	Aggressive
+T2	Wild boar	No fear
+T3	Wild boar	Friendly
+T4	Wild boar	ran away
+T5	Beaver	Aggressive
+T6	Beaver	No fear
+T7	Beaver	Friendly
+T8	Beaver	ran away
+T9	Badger	Aggressive
+T10	Badger	No fear
+T11	Badger	Friendly
+T12	Badger	ran away
+T13	Stone marten	Aggressive
+T14	Stone marten	No fear
+T15	Stone marten	Friendly
+T16	Stone marten	ran away
+T17	Red fox	Aggressive
+T18	Red fox	No fear
+T19	Red fox	Friendly
+T20	Red fox	ran away
+T21	Weasel	Aggressive
+T22	Weasel	No fear
+T23	Weasel	Friendly
+T24	Weasel	ran away
+T25	Ermine	Aggressive
+T26	Ermine	No fear
+T27	Ermine	Friendly
+T28	Ermine	ran away
+T29	Roe deer	Aggressive
+T30	Roe deer	No fear
+T31	Roe deer	Friendly
+T32	Roe deer	ran away
+T33	Hedgehog	Aggressive
+T34	Hedgehog	No fear
+T35	Hedgehog	Friendly
+T36	Hedgehog	ran away
+T37	Swan	Aggressive
+T38	Swan	No fear
+T39	Swan	Friendly
+T40	Swan	ran away
+T41	Kestral	Aggressive
+T42	Kestral	No fear
+T43	Kestral	Friendly
+T44	Kestral	ran away
+T45	Buzzard	Aggressive
+T46	Buzzard	No fear
+T47	Buzzard	Friendly
+T48	Buzzard	ran away
+T49	Bat	Aggressive
+T50	Bat	No fear
+T51	Bat	Friendly
+T52	Bat	ran away
+T53	Otter	Aggressive
+T54	Otter	No fear
+T55	Otter	Friendly
+T56	Otter	ran away
+T57	Squirrel	Aggressive
+T58	Squirrel	No fear
+T59	Squirrel	Friendly
+T60	Squirrel	ran away
+T61	Hare	Aggressive
+T62	Hare	No fear
+T63	Hare	Friendly
+T64	Hare	ran away
+T65	Pheasant	Aggressive
+T66	Pheasant	No fear
+T67	Pheasant	Friendly
+T68	Pheasant	ran away
+T69	Patridge	Aggressive
+T70	Patridge	No fear
+T71	Patridge	Friendly
+T72	Patridge	ran away
+T73	Stork	Aggressive
+T74	Stork	No fear
+T75	Stork	Friendly
+T76	Stork	ran away
+T77	Owl	Aggressive
+T78	Owl	No fear
+T79	Owl	Friendly
+T80	Owl	ran away
+T81	Ducks	Aggressive
+T82	Ducks	No fear
+T83	Ducks	Friendly
+T84	Ducks	ran away
+T85	Hawk	Aggressive
+T86	Hawk	No fear
+T87	Hawk	Friendly
+T88	Hawk	ran away

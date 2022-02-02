@@ -1,0 +1,674 @@
+animals	SK1	SK2	SK3	SK4	SK5	SK6	SK7	SK8	SK9	SK10	SK11	SK12	SK13	SK14	SK15	SK16	SK17	SK18	SK19	SK20	SK21	SK22	SK23	SK24
+squirrel					1											1				1				1
+marten					1		1																	1
+roe deer	1											1				1				1				1
+squirrel	1											1												
+squirrel			1									1												
+roe deer					1							1												
+hedgehog	1				1							1				1				1				1
+squirrel			1									1				1				1				
+wild boar								1								1								
+mole						1						1				1				1				1
+hedgehog					1															1				
+red fox	1				1																			
+swan	1		1	1						1								1				1		
+roe deer					1															1				
+hedgehog								1												1				
+duck								1								1				1				
+red fox																1								
+red fox					1															1				
+hedgehog	1											1				1				1				
+hare					1															1				
+squirrel			1																	1				
+beaver					1																			1
+hedgehog					1											1				1				
+wild boar								1								1								
+red fox	1																			1				
+red fox																								
+squirrel	1				1										1				1			1		
+hedgehog																								
+squirrel					1											1								
+roe deer					1															1				
+wild boar					1											1								
+squirrel	1																		1					
+red fox	1																			1				
+wild boar	1																							
+hedgehog	1																			1				
+wild boar	1				1						1									1				1
+hedgehog					1															1				
+squirrel	1		1											1										
+red fox																								
+marten								1			1				1				1				1	
+hedgehog					1															1				
+hare					1						1				1				1				1	
+red fox	1											1												
+red fox								1																
+swan																								
+squirrel	1		1								1				1			1				1		
+hedgehog			1									1		1						1				
+squirrel																								
+marten					1															1				1
+red fox					1																			
+wild boar					1																			
+marten	1								1															
+squirrel					1							1				1				1				
+hedgehog			1															1						
+hedgehog					1					1				1				1				1		
+squirrel	1																1							
+squirrel	1											1				1				1				
+red fox	1															1								
+hedgehog	1								1							1		1						
+squirrel			1									1				1				1				
+hedgehog			1									1		1						1				
+squirrel	1																	1						
+roe deer	1																			1				
+squirrel					1																			
+squirrel																								
+hare					1															1				
+marten	1										1													
+hedgehog					1														1					
+squirrel	1		1					1								1				1				
+hedgehog	1																			1				
+hedgehog					1										1									
+red fox					1																			1
+bat								1						1										
+squirrel					1		1				1			1					1				1	
+wild boar	1															1								
+wild boar	1														1									
+wild boar					1											1					1			
+wild boar					1						1								1					
+wild boar					1																			
+wild boar	1																		1					1
+wild boar	1							1												1				
+squirrel	1																			1				
+wild boar					1															1				
+red fox	1									1				1				1				1		
+roe deer								1																1
+squirrel					1							1				1				1				
+wild boar					1						1								1					1
+wild boar	1	1									1				1				1					
+wild boar	1							1		1			1							1				1
+wild boar		1						1						1										
+squirrel					1							1				1				1				1
+wild boar	1										1				1				1			1		
+wild boar					1							1												
+wild boar	1											1				1				1				1
+wild boar	1			1	1			1			1			1						1				1
+squirrel					1											1				1				
+roe deer					1															1				
+wild boar	1											1				1				1			1	
+hedgehog	1								1				1					1						
+bat																								
+wild boar	1																		1					
+wild boar	1				1															1				1
+wild boar	1										1				1									
+wild boar					1			1								1								
+red fox	1		1		1							1				1				1				1
+wild boar	1																		1					
+red fox					1			1				1				1				1				1
+wild boar					1																			
+wild boar	1																			1				
+wild boar					1									1										
+roe deer					1															1				1
+wild boar	1				1						1								1					1
+wild boar	1		1					1								1							1	
+wild boar	1				1						1			1				1						1
+squirrel					1							1				1				1				1
+squirrel					1																			
+marten																1								
+wild boar		1			1	1						1			1					1				1
+wild boar		1																						
+roe deer	1							1		1					1				1		1			
+squirrel							1			1										1	1			
+squirrel					1							1			1				1					
+wolf																								
+wild boar					1						1				1					1				1
+swan	1			1						1					1					1				1
+wild boar	1				1																			
+wild boar	1																	1				1		
+marten		1			1				1				1				1				1			
+hedgehog	1				1															1				
+wild boar					1						1									1				
+red fox	1	1																						
+wild boar								1												1				1
+wild boar					1			1				1				1			1				1	
+wild boar					1							1			1					1				
+squirrel					1															1				
+wild boar	1										1									1				1
+roe deer					1							1							1					1
+wild boar	1										1							1				1		
+wild boar	1	1		1						1				1				1				1		
+wild boar	1											1				1				1				1
+red fox	1											1											1	
+swan	1														1									
+badger												1												1
+wild boar	1										1				1				1				1	
+wild boar	1	1																1				1		
+hedgehog	1															1								1
+wild boar	1										1				1				1				1	
+ermine	1									1				1				1				1		
+hedgehog					1											1				1				
+wild boar	1				1						1				1				1				1	
+wild boar	1				1							1			1				1					
+wild boar	1											1							1					1
+roe deer					1															1				
+wild boar	1											1				1				1			1	
+marten		1			1							1				1								
+wild boar																								
+wild boar	1													1								1		
+buzzard	1										1			1										
+wild boar	1															1								
+roe deer	1				1					1				1					1				1	
+red fox					1																			
+roe deer					1	1		1		1				1					1					1
+wild boar					1							1				1				1				1
+wild boar	1				1								1					1				1		
+hedgehog			1		1														1					
+roe deer					1																	1		
+hare					1													1						
+hare					1						1			1				1						1
+squirrel					1					1			1						1					1
+duck			1														1							1
+squirrel					1						1			1						1				1
+duck	1																					1		
+squirrel					1															1				
+wild boar	1							1				1				1				1				1
+squirrel																								
+swan	1								1					1			1				1			
+ermine							1					1												
+wild boar								1			1				1				1					
+wild boar					1																			
+squirrel	1									1				1					1					
+roe deer																								
+duck								1																
+wild boar	1																			1				1
+roe deer																								
+red fox	1			1								1				1				1				1
+wild boar	1							1				1				1				1				
+swan	1								1					1				1				1		
+roe deer							1																	1
+hedgehog	1													1				1						
+hedgehog					1				1															
+red fox	1							1	1					1			1				1			
+wild boar	1																							1
+marten																								
+wild boar	1																						1	
+squirrel	1												1				1							
+roe deer	1							1				1				1				1				
+squirrel	1		1						1						1				1					
+squirrel	1															1							1	
+wild boar					1																			
+red fox								1												1				
+roe deer	1																			1				
+squirrel	1		1						1				1				1				1			
+duck								1							1									
+bat	1																							
+squirrel	1		1	1	1							1				1								
+roe deer								1			1				1				1					
+red fox	1				1			1																
+hedgehog					1							1				1				1				
+red fox	1											1												
+squirrel					1						1				1				1				1	
+hedgehog					1				1				1					1						
+red fox	1															1								
+roe deer	1							1			1				1				1				1	
+deer					1																			1
+squirrel	1																			1				
+red fox					1							1				1								
+swan	1			1																1				
+squirrel	1				1							1				1				1				1
+duck																								
+red fox					1			1												1				1
+swan	1								1							1								
+hedgehog			1													1								
+swan	1			1					1				1								1			
+owl	1							1									1							
+squirrel	1		1							1			1							1				
+squirrel																								
+squirrel	1		1								1				1				1					1
+roe deer	1																		1					
+swan	1										1													
+wild boar	1										1			1				1						
+rat	1								1				1				1				1			
+wild boar					1															1				
+red fox	1							1				1				1				1				
+hedgehog	1																							1
+squirrel	1									1				1				1						
+red fox																								
+hedgehog					1										1									
+hedgehog					1												1							
+squirrel	1									1				1				1						
+red fox																								
+squirrel	1		1	1					1				1				1					1		
+red fox																								
+squirrel	1		1					1		1				1				1				1		
+hedgehog	1							1								1				1				
+bat																								
+bat					1			1																
+duck	1																1					1		
+squirrel	1		1								1				1				1					
+hare					1							1				1				1				
+swan	1		1																				1	
+rat																								
+red fox																								
+squirrel	1				1					1				1				1				1		
+squirrel	1		1	1				1				1				1				1				1
+squirrel	1		1						1				1				1						1	
+pheasant					1					1				1				1						
+hedgehog					1															1				
+red fox																								
+squirrel										1			1			1				1				1
+red fox					1							1				1				1				
+swan					1					1				1				1						1
+red fox					1							1				1				1				
+ermine																								
+squirrel	1																							
+bat								1						1										
+red fox	1		1							1						1						1		
+squirrel			1		1							1												
+red fox					1																			1
+squirrel	1			1						1					1			1						1
+squirrel	1		1	1						1			1					1				1		
+squirrel																								
+squirrel	1		1																			1		
+red fox	1				1														1					
+red fox	1																			1				
+hare					1																			1
+roe deer	1										1			1				1			1			
+squirrel					1					1			1				1					1		
+red fox					1							1								1				
+marten	1										1		1					1						
+squirrel	1		1						1				1				1					1		
+hedgehog					1											1								
+swan								1														1		
+hedgehog	1																							
+bat	1															1								
+beaver																								
+red fox	1				1			1				1				1								
+marten	1										1				1				1					
+wild boar	1																							1
+squirrel					1							1				1				1				1
+roe deer					1										1									
+wild boar	1						1					1				1				1				1
+roe deer	1		1							1								1				1		
+hedgehog																								
+otter								1							1				1					
+duck	1		1	1									1				1				1			
+squirrel					1			1		1								1						
+red fox	1				1											1								
+red fox	1							1			1				1				1					1
+squirrel																								
+squirrel	1										1					1				1				1
+red fox					1														1					
+roe deer					1																			
+bat								1																
+roe deer					1							1												
+red fox					1						1				1					1				1
+squirrel	1				1			1	1				1				1							
+squirrel								1																
+red fox					1	1																		
+hedgehog	1																	1						
+bat	1							1		1														
+kestral																								
+squirrel	1						1																	1
+bat																								
+hedgehog	1											1				1				1				1
+wild boar	1							1																
+squirrel	1				1				1				1					1				1		
+squirrel	1		1							1				1				1						
+duck	1		1		1			1	1				1				1							
+roe deer	1		1																	1				1
+roe deer					1																			
+roe deer					1			1										1				1		
+hedgehog	1											1				1								
+wild boar					1																			1
+swan																								
+squirrel	1		1						1						1		1						1	
+red fox	1																			1				
+red fox	1															1								
+squirrel	1								1				1				1							
+wild boar	1																							
+red fox	1				1																		1	
+wild boar	1							1																1
+red fox				1					1							1		1						
+swan	1				1			1											1				1	
+squirrel	1							1										1				1		
+wild boar	1																			1				
+squirrel	1			1								1				1				1				
+squirrel					1							1				1				1				
+squirrel																								
+roe deer								1				1												
+hare					1			1				1												
+red fox		1										1												
+marten					1																			
+squirrel	1		1	1						1				1				1			1			
+red fox					1														1					
+red fox	1				1											1								
+swan	1			1							1				1				1				1	
+squirrel					1							1				1				1				
+wild boar	1			1																				1
+owl								1								1								
+duck								1								1								
+hedgehog	1										1				1									
+red fox					1							1				1				1				1
+squirrel					1						1				1					1				
+squirrel																								
+bat								1				1		1						1				
+pheasant					1							1				1				1				1
+red fox	1														1									
+roe deer				1															1					
+squirrel								1			1			1					1					1
+squirrel	1																							
+red fox	1							1											1					
+roe deer					1											1								
+red fox					1															1				1
+red fox	1									1				1				1				1		
+squirrel			1							1				1				1					1	
+red fox	1															1								
+squirrel					1											1								
+squirrel								1		1				1					1				1	
+squirrel			1		1				1				1				1					1		
+roe deer					1							1												
+red fox																								
+red fox	1																							1
+red fox	1	1													1				1					
+swan	1		1	1				1										1						
+red fox	1																			1				
+red fox	1									1						1				1				1
+wild boar	1							1																1
+squirrel	1							1						1					1					
+roe deer	1											1								1		1		
+red fox																								
+hedgehog					1															1				
+red fox					1											1								
+red fox					1											1			1					1
+squirrel	1														1			1						
+roe deer								1				1				1				1				1
+hedgehog					1		1									1				1				
+wild boar																								
+wild boar	1																			1				
+roe deer					1							1		1					1			1		
+squirrel	1		1		1			1								1		1						1
+wild boar	1							1								1				1				
+roe deer	1															1					1			
+squirrel	1		1	1				1				1				1				1				1
+red fox																								
+swan								1						1										
+marten																								
+squirrel									1				1							1				1
+marten					1																		1	
+red fox					1							1								1				
+red fox	1			1	1																			
+squirrel	1		1							1				1				1					1	
+squirrel			1							1					1			1						
+red fox					1															1				
+red fox								1												1				
+roe deer					1			1				1				1				1				
+hedgehog	1											1				1				1				
+red fox					1						1				1				1				1	
+squirrel					1			1																
+squirrel	1			1	1					1				1				1					1	
+hedgehog	1																	1						
+kestral								1																
+hedgehog					1							1				1								
+wild boar	1	1																						1
+squirrel	1								1				1											
+hedgehog					1															1				
+squirrel					1							1				1				1				1
+squirrel	1		1	1					1				1				1				1			
+squirrel	1															1								
+roe deer					1									1										
+squirrel					1						1				1				1					
+hedgehog	1															1								
+hedgehog					1																			
+squirrel	1		1								1			1				1						
+swan								1	1				1				1				1			
+squirrel			1																					
+red fox																								
+hare	1											1				1				1				
+marten				1																				
+squirrel																								
+roe deer							1					1												
+roe deer	1									1				1				1					1	
+red fox					1											1								
+bat																								
+hedgehog	1		1																	1				
+squirrel								1			1				1				1					1
+roe deer	1															1				1				
+red fox	1				1			1												1				
+roe deer					1									1										
+squirrel					1							1												
+hedgehog	1																							1
+red fox					1																			1
+marten																								
+hedgehog					1										1				1					
+squirrel								1								1				1				
+squirrel	1																							
+squirrel	1																							
+bat															1									
+roe deer	1																			1				
+hedgehog	1											1								1				
+hedgehog	1		1																1					
+kestral					1											1								
+duck				1					1															
+hedgehog																								
+duck			1								1				1							1		
+deer	1																						1	
+red fox					1				1				1				1				1			
+hedgehog	1										1			1					1					
+marten	1																					1		
+hedgehog					1											1								
+hedgehog												1				1				1				
+red fox					1																			
+hedgehog					1									1										
+wild boar	1											1												
+wolf dog	1							1				1				1								
+squirrel	1											1			1				1					
+hedgehog					1		1			1				1				1				1		
+hedgehog	1				1											1								
+roe deer					1							1				1								
+roe deer								1																
+hedgehog	1																							
+wild boar																								
+wild boar	1							1	1						1				1			1		
+roe deer	1								1				1				1				1			
+roe deer	1										1				1				1					
+roe deer	1							1		1				1			1				1			
+roe deer								1																1
+wild boar	1												1					1					1	
+roe deer					1					1				1				1				1		
+red fox					1							1												
+roe deer					1															1				
+wild boar								1		1								1				1		
+roe deer	1		1							1								1			1			
+deer					1						1				1				1				1	
+roe deer								1		1					1				1				1	
+wild boar	1							1											1					
+roe deer	1							1											1					
+roe deer					1						1				1				1					
+wild boar	1	1																		1				
+wild boar	1							1					1				1					1		
+wild boar	1										1			1				1					1	
+wild boar	1																	1				1		
+roe deer								1		1				1				1				1		
+roe deer																								
+duck								1		1				1										
+wild boar					1															1				
+roe deer																								
+wild boar																								
+beaver	1											1			1					1				1
+roe deer			1									1				1				1				1
+roe deer					1																			
+roe deer																								
+roe deer					1							1			1				1					1
+roe deer					1							1				1				1				1
+wild boar					1															1	1			
+roe deer									1				1				1				1			
+wild boar	1											1				1				1				1
+roe deer					1														1					
+roe deer	1								1												1			
+roe deer					1																			1
+marten					1							1												
+roe deer								1		1					1			1						1
+red fox					1							1												
+hedgehog	1								1															
+roe deer					1			1								1			1					
+squirrel					1																			1
+roe deer								1				1				1				1				1
+wild boar	1	1																		1				
+wild boar				1								1		1						1				1
+squirrel	1		1													1			1					
+hedgehog					1					1				1				1						1
+wild boar	1										1				1				1				1	
+buzzard								1					1							1				
+squirrel					1					1					1			1						
+roe deer	1										1				1				1					
+red fox	1									1				1				1				1		
+roe deer	1									1				1					1				1	
+roe deer	1																							
+roe deer	1																	1						1
+roe deer	1	1	1																			1		
+roe deer					1			1		1				1				1				1		
+hedgehog					1			1											1					
+wild boar	1																		1			1		
+wild boar	1									1				1				1				1		
+red fox	1							1		1				1				1					1	
+swan	1			1					1				1				1					1		
+roe deer					1						1				1			1						1
+hedgehog																								
+marten	1										1				1				1					
+squirrel	1									1				1				1					1	
+deer																								
+squirrel	1															1				1				
+marten	1									1				1				1						1
+duck			1	1								1				1				1				
+red fox					1																			1
+hedgehog	1			1				1							1				1					
+red fox					1							1												1
+hedgehog	1		1																	1				
+squirrel																								
+wild boar		1								1				1				1				1		
+bat								1				1												
+marten					1							1				1								
+ermine				1																				1
+squirrel	1							1	1								1				1			
+squirrel					1					1				1				1					1	
+squirrel	1											1												
+squirrel	1		1	1							1				1				1					1
+hedgehog																								
+roe deer	1		1									1												
+squirrel	1		1	1							1													
+squirrel					1							1				1				1				
+hare	1				1					1				1									1	
+swan				1					1				1				1				1			
+squirrel	1		1					1			1				1					1				
+marten												1				1				1				
+roe deer					1																			
+hedgehog	1														1									
+roe deer	1							1																1
+swan	1		1																					1
+roe deer	1							1																1
+squirrel																								
+hedgehog					1			1												1				
+red fox	1							1																
+marten																								
+squirrel				1				1																1
+squirrel			1		1			1		1				1				1						1
+wild boar					1											1				1				
+squirrel	1		1																1					
+squirrel					1			1				1				1								
+wild boar	1																							
+duck	1														1									
+squirrel	1		1																					
+hedgehog	1											1				1								
+wild boar	1											1			1									
+duck																								
+hedgehog	1													1										
+red fox								1												1				
+wild boar	1																							
+hedgehog																								
+squirrel	1		1								1				1				1				1	
+squirrel					1							1				1				1				1
+squirrel				1																				
+roe deer					1											1								
+squirrel					1						1				1				1				1	
+hedgehog							1								1				1					
+squirrel					1															1				
+squirrel			1								1			1					1					1
+squirrel				1																				
+squirrel	1			1						1				1				1				1		
+hedgehog					1											1				1				
+squirrel	1							1						1						1				
+swan	1		1	1				1			1			1					1					1
+hedgehog					1	1	1					1			1					1				1
+squirrel			1																	1				
+red fox			1																					
+wild boar							1																	
+swan	1			1																				1
+red fox	1																			1				
+bat					1															1				
+hedgehog	1											1		1						1				
+squirrel	1		1	1					1				1				1						1	
+squirrel	1				1						1			1					1					1
+hedgehog	1				1		1													1				
+hedgehog								1				1		1					1					
+wild boar	1																							1
+squirrel	1										1				1				1					
+squirrel	1																			1				
+roe deer					1													1				1		
+squirrel					1									1										
+squirrel					1													1						
+squirrel			1											1										1
+hedgehog					1						1				1				1					
+wild boar					1										1									
+roe deer					1		1			1					1				1					1
+hedgehog					1							1		1										
+squirrel	1		1				1																	
+roe deer	1		1					1			1				1				1					
+squirrel	1		1		1																			
+roe deer	1																							1
+duck																								
+squirrel	1							1			1				1				1				1	
+squirrel								1												1				
+red fox					1							1												
+swan	1		1	1					1				1				1							
+squirrel					1						1													
+squirrel	1									1								1				1		
+bat								1		1			1				1							
+ermine					1																			1
+roe deer					1							1				1								1
+hedgehog	1													1										
+hare					1							1				1								
+marten																								
+ermine					1																			1
+wild boar																								1
+squirrel	1									1				1										
+squirrel	1											1			1					1				1
+red fox	1															1								
+duck	1							1													1			
+hedgehog					1							1								1				
+duck				1								1												
+squirrel	1		1						1				1				1				1			
+red fox	1				1							1								1				
+red fox	1															1								
+red fox	1				1														1					
+squirrel																								
+red fox	1									1			1				1					1		
+swan				1					1				1				1							
+hedgehog	1														1				1					
+red fox					1															1				
+bat								1		1			1				1							
+hedgehog	1																			1				
+hedgehog					1										1					1				
+red fox					1						1					1				1				
+squirrel	1		1	1																				
+hedgehog	1				1															1				
+squirrel	1		1							1			1					1						1
+squirrel			1											1				1						
+squirrel			1										1					1						
+squirrel	1				1			1		1						1		1						1
+red fox	1															1								
+squirrel			1																					
+squirrel	1								1				1				1				1			
+deer	1							1												1				1
+squirrel																								
