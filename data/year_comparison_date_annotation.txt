@@ -1,0 +1,20 @@
+ID	group	statement
+1a	attitudes towards wildlife 	source of danger to people
+1b	attitudes towards wildlife 	should be killed by shooting
+1c	attitudes towards wildlife 	should be killed pharmacologically
+1d	attitudes towards wildlife 	should be resettled to their natural environment outside the city
+1e	attitudes towards wildlife 	make me feel connected with nature 
+1f	attitudes towards wildlife 	appear as a result of shrinking their natural habitats
+1g	attitudes towards wildlife 	they can live in Krakow without colliding with people's interests
+2a	attitudes towards resolving conflicts with injured wildlife	should take home to help
+2b	attitudes towards resolving conflicts with injured wildlife	to leave because it poses a danger
+2c	attitudes towards resolving conflicts with injured wildlife	is part of nature so they should be left alone
+2d	attitudes towards resolving conflicts with injured wildlife	should be captured by the relevant services that will deal with it
+3a	attitudes towards resolving conflicts with injured wildlife after cure	cured and released at the point of capture
+3b	attitudes towards resolving conflicts with injured wildlife after cure	killed
+3c	attitudes towards resolving conflicts with injured wildlife after cure	resettled outside the city
+3d	attitudes towards resolving conflicts with injured wildlife after cure	Sterelised
+3e	attitudes towards resolving conflicts with injured wildlife after cure	dewormed
+3f	attitudes towards resolving conflicts with injured wildlife after cure	put into adoption
+3g	attitudes towards resolving conflicts with injured wildlife after cure	for scientific research
+3h	attitudes towards resolving conflicts with injured wildlife after cure	given to the mini ZOO
