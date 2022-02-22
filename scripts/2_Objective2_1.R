@@ -96,6 +96,10 @@ mat <- mat[,idx]
 cca_obj <- vegan::cca((mat) ~ Behaviour, data = behaviour, na.action = na.exclude, method = "pearson")
 set.seed(1)
 anova_obj <- vegan::anova.cca(cca_obj, permutations = 999, parallel = TRUE)
+broom::tidy(anova_obj) %>% 
+  filter(term == "Model") %>% 
+  write.table(., "./output/2010_cca_panova.txt", sep = "\t",
+              quote = FALSE, row.names = FALSE)
 variance <- round(100*cca_obj$CCA$eig/sum(cca_obj$CCA$eig), 2)
 pval <- anova_obj$`Pr(>F)`[1]
 con_var <- round(100*cca_obj$CCA$tot.chi/cca_obj$tot.chi, 2)

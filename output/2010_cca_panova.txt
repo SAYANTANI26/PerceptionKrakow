@@ -1,0 +1,2 @@
+term	df	ChiSquare	statistic	p.value
+Model	3	0.545992383719155	20.9244777077819	0.001
