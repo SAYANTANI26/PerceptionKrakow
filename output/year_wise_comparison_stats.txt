@@ -1,0 +1,20 @@
+term	estimate	std.error	statistic	p.value	groupID	group	statement	FDR	significance
+2020	-0.00477614251375249	0.0475326899467543	-0.100481216592259	0.919975912878131	X1a	attitudes towards wildlife 	source of danger to people	0.977024328233822	FALSE
+2020	-0.0652439682492956	0.0230495417535428	-2.83059719568035	0.00471093288555584	X1b	attitudes towards wildlife 	should be killed by shooting	0.0447538624127805	TRUE
+2020	-0.0742776381909555	0.0257668107409378	-2.88268652794289	0.00400177459713461	X1c	attitudes towards wildlife 	should be killed pharmacologically	0.0447538624127805	TRUE
+2020	-0.0046226542459836	0.043480530611638	-0.106315497556194	0.915346289958717	X1d	attitudes towards wildlife 	should be resettled to their natural environment outside the city	0.977024328233822	FALSE
+2020	-0.0327064104796725	0.0419559282124591	-0.779542054559054	0.435788128390194	X1e	attitudes towards wildlife 	make me feel connected with nature 	0.919997159934854	FALSE
+2020	0.0140410764066716	0.0343207034896121	0.409113886926048	0.682516132632081	X1f	attitudes towards wildlife 	appear as a result of shrinking their natural habitats	0.977024328233822	FALSE
+2020	-0.00136238989932302	0.0472974769449461	-0.0288047056063651	0.977024328233822	X1g	attitudes towards wildlife 	they can live in Krakow without colliding with people's interests	0.977024328233822	FALSE
+2020	-0.0122978436657671	0.0249653268528233	-0.492596942081546	0.622373670892596	X2a	attitudes towards resolving conflicts with injured wildlife	should take home to help	0.977024328233822	FALSE
+2020	-0.00330227892844507	0.0409245911645883	-0.0806918000760019	0.935698690973903	X2b	attitudes towards resolving conflicts with injured wildlife	to leave because it poses a danger	0.977024328233822	FALSE
+2020	-0.0542993581514761	0.0447937945004111	-1.21220715407304	0.225637332776207	X2c	attitudes towards resolving conflicts with injured wildlife	is part of nature so they should be left alone	0.705036576505962	FALSE
+2020	0.0226581325560042	0.0193735162027244	1.16954156999223	0.242367546170787	X2d	attitudes towards resolving conflicts with injured wildlife	should be captured by the relevant services that will deal with it	0.705036576505962	FALSE
+2020	0.00606385656899467	0.0445776544380402	0.136029063113291	0.89181535358816	X3a	attitudes towards resolving conflicts with injured wildlife after cure	cured and released at the point of capture	0.977024328233822	FALSE
+2020	-0.0226167151660527	0.024119350306295	-0.937700015914184	0.348539586906324	X3b	attitudes towards resolving conflicts with injured wildlife after cure	killed	0.82778151890252	FALSE
+2020	-0.0221742006201462	0.0377394605795454	-0.587560083785737	0.55691020850216	X3c	attitudes towards resolving conflicts with injured wildlife after cure	resettled outside the city	0.977024328233822	FALSE
+2020	-0.0372447136711976	0.0330365257731761	-1.12737985606944	0.259750317660091	X3d	attitudes towards resolving conflicts with injured wildlife after cure	Sterelised	0.705036576505962	FALSE
+2020	-0.0348382476423977	0.0280182288341716	-1.24341363076842	0.213896927422587	X3e	attitudes towards resolving conflicts with injured wildlife after cure	dewormed	0.705036576505962	FALSE
+2020	-0.012135531416187	0.0341695609938529	-0.355156199354454	0.722519211871638	X3f	attitudes towards resolving conflicts with injured wildlife after cure	put into adoption	0.977024328233822	FALSE
+2020	-0.0514364522529927	0.0290283962817907	-1.77193571955122	0.0765948035179355	X3g	attitudes towards resolving conflicts with injured wildlife after cure	for scientific research	0.485100422280258	FALSE
+2020	-0.022246128779551	0.0402163638400521	-0.553161117897876	0.580230079423304	X3h	attitudes towards resolving conflicts with injured wildlife after cure	given to the mini ZOO	0.977024328233822	FALSE
